@@ -5,8 +5,8 @@ body {
 }
 
 html {
-  font-size: 10px;
-  background-color: darkgrey;
+  font-size: 12px;
+  background-color: rgb(11, 151, 44);
 }
 
 body {
@@ -20,19 +20,19 @@ body {
 h1,
 h2 {
   font-family: "Cinzel Decorative", cursive;
-  color: #2a2a2a;
+  color: #000000;
 }
 
 p,
 li {
   font-family: "Roboto Condensed", sans-serif;
-  color: #2a2a2a;
+  color: #000000;
 }
 
 h1 {
   font-size: 4rem;
   text-align: center;
-  text-shadow: 2px 2px 10px black;
+  text-shadow: 2px 2px 10px rgb(52, 52, 52);
 }
 
 h2 {
@@ -59,7 +59,7 @@ article,
 aside,
 footer,
 section {
-  background-color: #00ff0080;
+  background-color: #070eddd3;
   padding: 1%;
 }
 
@@ -124,5 +124,5 @@ aside img {
 }
 
 footer {
-  margin-top: 10px;
+  margin-top: 0px;
 }
