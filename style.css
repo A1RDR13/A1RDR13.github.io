@@ -19,7 +19,7 @@ body {
 
 h1,
 h2 {
-  font-family: "Roboto Mono", cursive;
+  font-family: "Roboto Mono", ;
   color: #c50202;
 }
 
@@ -59,7 +59,7 @@ article,
 aside,
 footer,
 section {
-  background-color: #ed7914fa;
+  background-color: #ebe705fa;
   padding: 1%;
 }
 
